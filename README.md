@@ -18,10 +18,10 @@ The following **optional** features are implemented:
 * [ ] User can **share an article link** to their friends or email it to themselves
 * [ ] Improved the user interface and experiment with image assets and/or styling and coloring
 * [ ] User can click on "settings" which allows selection of **advanced search options** to filter results
-  * [ ] User can configure advanced search filters such as:
-    * [ ] Begin Date (using a date picker)
-    * [ ] News desk values (Arts, Fashion & Style, Sports)
-    * [ ] Sort order (oldest or newest)
+  * [X] User can configure advanced search filters such as:
+    * [X] Begin Date (using a date picker)
+    * [X] News desk values (Arts, Fashion & Style, Sports)
+    * [X] Sort order (oldest or newest)
   * [ ] Subsequent searches have any selected filters applied to the results
   * [ ] Uses a lightweight modal dialog for filters rather than an activity
 * [ ] Replaces the default ActionBar with a [Toolbar](http://guides.codepath.com/android/Using-the-App-ToolBar).
